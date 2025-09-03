@@ -1,0 +1,2898 @@
+[
+  {
+    "order_id": "1000",
+    "service_title": "Выездная диагностика",
+    "city": "Мытищи",
+    "contract": "939941",
+    "date": "04.09.2025",
+    "time": "14:00-15:00",
+    "address": "Мытищи, ул. Советская, 19",
+    "client_presence": "без клиента",
+    "sum_rub": 24959,
+    "to_pay_rub": 0,
+    "details": "Mazda 6, 2017 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Бутово",
+        "distance_km": 1.85
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/5444216/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C1531example",
+    "navigator_link": "yandexnavi://build_route_on_map?...9338"
+  },
+  {
+    "order_id": "1001",
+    "service_title": "Выездная диагностика",
+    "city": "Химки",
+    "contract": "991847",
+    "date": "08.09.2025",
+    "time": "14:00-15:00",
+    "address": "Химки, ул. Ленина, 29",
+    "client_presence": "с клиентом",
+    "sum_rub": 17475,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 19.43
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1086040/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C9599example",
+    "navigator_link": "yandexnavi://build_route_on_map?...4236"
+  },
+  {
+    "order_id": "1002",
+    "service_title": "Комплексная проверка",
+    "city": "Люберцы",
+    "contract": "929527",
+    "date": "12.09.2025",
+    "time": "после 13:00",
+    "address": "Люберцы, ул. Советская, 27",
+    "client_presence": "без клиента",
+    "sum_rub": 16830,
+    "to_pay_rub": 0,
+    "details": "Skoda Octavia A7, 2015 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Бутово",
+        "distance_km": 1.01
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9480455/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8003example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1702"
+  },
+  {
+    "order_id": "1003",
+    "service_title": "Эксперт на день",
+    "city": "Мытищи",
+    "contract": "937572",
+    "date": "05.09.2025",
+    "time": "после 13:00",
+    "address": "Мытищи, ул. Индустриальная, 91",
+    "client_presence": "без клиента",
+    "sum_rub": 18420,
+    "to_pay_rub": 0,
+    "details": "Toyota Camry XV70, 2020 года",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 3.53
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/6017894/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8899example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1496"
+  },
+  {
+    "order_id": "1004",
+    "service_title": "Выездная диагностика",
+    "city": "Ногинск",
+    "contract": "904653",
+    "date": "17.09.2025",
+    "time": "10:00-11:00",
+    "address": "Ногинск, пр-т Мира, 93",
+    "client_presence": "без клиента",
+    "sum_rub": 15559,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 16.46
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1266978/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C9111example",
+    "navigator_link": "yandexnavi://build_route_on_map?...3486"
+  },
+  {
+    "order_id": "1005",
+    "service_title": "Эксперт на день",
+    "city": "Химки",
+    "contract": "951192",
+    "date": "29.09.2025",
+    "time": "10:00-11:00",
+    "address": "Химки, ул. Ленина, 51",
+    "client_presence": "с клиентом",
+    "sum_rub": 13220,
+    "to_pay_rub": 0,
+    "details": "Mazda 6, 2017 года",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 12.67
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2048815/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8657example",
+    "navigator_link": "yandexnavi://build_route_on_map?...5917"
+  },
+  {
+    "order_id": "1006",
+    "service_title": "Эксперт на день",
+    "city": "Люберцы",
+    "contract": "923695",
+    "date": "30.09.2025",
+    "time": "в течение дня",
+    "address": "Люберцы, ул. Индустриальная, 7",
+    "client_presence": "с клиентом",
+    "sum_rub": 20284,
+    "to_pay_rub": 0,
+    "details": "Lexus RX350, 2015 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 15.48
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 19.81
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 26.78
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/8682053/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C9347example",
+    "navigator_link": "yandexnavi://build_route_on_map?...9082"
+  },
+  {
+    "order_id": "1007",
+    "service_title": "Выездная диагностика",
+    "city": "Москва",
+    "contract": "960460",
+    "date": "11.09.2025",
+    "time": "12:00-13:00",
+    "address": "Москва, ул. Индустриальная, 30",
+    "client_presence": "без клиента",
+    "sum_rub": 16990,
+    "to_pay_rub": 0,
+    "details": "Mercedes C200, 2018 года, пробег 60 000 км",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 18.22
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 7.34
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/8283051/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7860example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8619"
+  },
+  {
+    "order_id": "1008",
+    "service_title": "Выездная диагностика",
+    "city": "Люберцы",
+    "contract": "950564",
+    "date": "13.09.2025",
+    "time": "в течение дня",
+    "address": "Люберцы, ул. Академика Семёнова, 32",
+    "client_presence": "без клиента",
+    "sum_rub": 15066,
+    "to_pay_rub": 0,
+    "details": "Audi A4 B8, 2012 г.в., серый седан",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 16.87
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 6.15
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 3.9
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9366985/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C6801example",
+    "navigator_link": "yandexnavi://build_route_on_map?...6527"
+  },
+  {
+    "order_id": "1009",
+    "service_title": "Эксперт на день",
+    "city": "Люберцы",
+    "contract": "952574",
+    "date": "07.09.2025",
+    "time": "14:00-15:00",
+    "address": "Люберцы, ул. Академика Семёнова, 99",
+    "client_presence": "с клиентом",
+    "sum_rub": 24030,
+    "to_pay_rub": 0,
+    "details": "Mercedes C200, 2018 года, пробег 60 000 км",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 11.18
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 8.43
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 11.9
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2013156/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7029example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1145"
+  },
+  {
+    "order_id": "1010",
+    "service_title": "Комплексная проверка",
+    "city": "Химки",
+    "contract": "988947",
+    "date": "07.09.2025",
+    "time": "14:00-15:00",
+    "address": "Химки, ул. Академика Семёнова, 68",
+    "client_presence": "с клиентом",
+    "sum_rub": 19450,
+    "to_pay_rub": 0,
+    "details": "Volkswagen Passat B7, 2014 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 7.0
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/6113768/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8640example",
+    "navigator_link": "yandexnavi://build_route_on_map?...6828"
+  },
+  {
+    "order_id": "1011",
+    "service_title": "Эксперт на день",
+    "city": "Москва",
+    "contract": "928097",
+    "date": "25.09.2025",
+    "time": "12:00-13:00",
+    "address": "Москва, ул. Академика Семёнова, 59",
+    "client_presence": "без клиента",
+    "sum_rub": 8271,
+    "to_pay_rub": 0,
+    "details": "Skoda Octavia A7, 2015 года",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 13.44
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1224128/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C6193example",
+    "navigator_link": "yandexnavi://build_route_on_map?...2254"
+  },
+  {
+    "order_id": "1012",
+    "service_title": "Эксперт на день",
+    "city": "Ногинск",
+    "contract": "974249",
+    "date": "08.09.2025",
+    "time": "12:00-13:00",
+    "address": "Ногинск, ул. Академика Семёнова, 15",
+    "client_presence": "без клиента",
+    "sum_rub": 21472,
+    "to_pay_rub": 0,
+    "details": "Mercedes C200, 2018 года, пробег 60 000 км",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 12.58
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/4072724/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8559example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7913"
+  },
+  {
+    "order_id": "1013",
+    "service_title": "Выездная диагностика",
+    "city": "Люберцы",
+    "contract": "940074",
+    "date": "08.09.2025",
+    "time": "12:00-13:00",
+    "address": "Люберцы, ул. Ленина, 63",
+    "client_presence": "с клиентом",
+    "sum_rub": 14983,
+    "to_pay_rub": 0,
+    "details": "Kia Optima, 2019 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 8.66
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 20.78
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/7299057/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7943example",
+    "navigator_link": "yandexnavi://build_route_on_map?...4179"
+  },
+  {
+    "order_id": "1014",
+    "service_title": "Комплексная проверка",
+    "city": "Химки",
+    "contract": "941581",
+    "date": "01.09.2025",
+    "time": "в течение дня",
+    "address": "Химки, ул. Индустриальная, 38",
+    "client_presence": "без клиента",
+    "sum_rub": 17732,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 4.98
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 29.25
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/5592667/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7747example",
+    "navigator_link": "yandexnavi://build_route_on_map?...4883"
+  },
+  {
+    "order_id": "1015",
+    "service_title": "Выездная диагностика",
+    "city": "Ногинск",
+    "contract": "948282",
+    "date": "14.09.2025",
+    "time": "в течение дня",
+    "address": "Ногинск, ул. Советская, 88",
+    "client_presence": "без клиента",
+    "sum_rub": 8012,
+    "to_pay_rub": 0,
+    "details": "Toyota Camry XV70, 2020 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 19.26
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9136056/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C3841example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7159"
+  },
+  {
+    "order_id": "1016",
+    "service_title": "Выездная диагностика",
+    "city": "Люберцы",
+    "contract": "907531",
+    "date": "21.09.2025",
+    "time": "после 13:00",
+    "address": "Люберцы, ул. Советская, 27",
+    "client_presence": "с клиентом",
+    "sum_rub": 22793,
+    "to_pay_rub": 0,
+    "details": "Toyota Camry XV70, 2020 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 3.4
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 6.28
+      },
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 21.84
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/7279281/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7871example",
+    "navigator_link": "yandexnavi://build_route_on_map?...2300"
+  },
+  {
+    "order_id": "1017",
+    "service_title": "Эксперт на день",
+    "city": "Мытищи",
+    "contract": "986880",
+    "date": "06.09.2025",
+    "time": "в течение дня",
+    "address": "Мытищи, пр-т Мира, 98",
+    "client_presence": "с клиентом",
+    "sum_rub": 9738,
+    "to_pay_rub": 0,
+    "details": "Mercedes C200, 2018 года, пробег 60 000 км",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 24.58
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 1.95
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/5134133/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7292example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7266"
+  },
+  {
+    "order_id": "1018",
+    "service_title": "Комплексная проверка",
+    "city": "Люберцы",
+    "contract": "945818",
+    "date": "21.09.2025",
+    "time": "10:00-11:00",
+    "address": "Люберцы, ул. Ленина, 20",
+    "client_presence": "без клиента",
+    "sum_rub": 12703,
+    "to_pay_rub": 0,
+    "details": "Audi A4 B8, 2012 г.в., серый седан",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 6.99
+      },
+      {
+        "name": "Бутово",
+        "distance_km": 2.97
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/5622954/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C2370example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1337"
+  },
+  {
+    "order_id": "1019",
+    "service_title": "Эксперт на день",
+    "city": "Мытищи",
+    "contract": "975580",
+    "date": "05.09.2025",
+    "time": "12:00-13:00",
+    "address": "Мытищи, ул. Индустриальная, 100",
+    "client_presence": "без клиента",
+    "sum_rub": 24201,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 21.93
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 27.16
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 3.99
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/4375270/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C2840example",
+    "navigator_link": "yandexnavi://build_route_on_map?...5604"
+  },
+  {
+    "order_id": "1020",
+    "service_title": "Выездная диагностика",
+    "city": "Москва",
+    "contract": "931028",
+    "date": "19.09.2025",
+    "time": "в течение дня",
+    "address": "Москва, ул. Индустриальная, 100",
+    "client_presence": "с клиентом",
+    "sum_rub": 20107,
+    "to_pay_rub": 0,
+    "details": "Mercedes C200, 2018 года, пробег 60 000 км",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 1.6
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2320918/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7054example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8410"
+  },
+  {
+    "order_id": "1021",
+    "service_title": "Эксперт на день",
+    "city": "Люберцы",
+    "contract": "938239",
+    "date": "14.09.2025",
+    "time": "в течение дня",
+    "address": "Люберцы, ул. Ленина, 15",
+    "client_presence": "с клиентом",
+    "sum_rub": 13615,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 20.78
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 18.86
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/3672544/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C5649example",
+    "navigator_link": "yandexnavi://build_route_on_map?...4658"
+  },
+  {
+    "order_id": "1022",
+    "service_title": "Выездная диагностика",
+    "city": "Ногинск",
+    "contract": "947024",
+    "date": "24.09.2025",
+    "time": "14:00-15:00",
+    "address": "Ногинск, ул. Ленина, 92",
+    "client_presence": "без клиента",
+    "sum_rub": 15688,
+    "to_pay_rub": 0,
+    "details": "Volkswagen Passat B7, 2014 года",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Бутово",
+        "distance_km": 8.73
+      },
+      {
+        "name": "Бутово",
+        "distance_km": 21.76
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/8554278/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C5351example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7279"
+  },
+  {
+    "order_id": "1023",
+    "service_title": "Выездная диагностика",
+    "city": "Москва",
+    "contract": "916058",
+    "date": "21.09.2025",
+    "time": "14:00-15:00",
+    "address": "Москва, пр-т Мира, 81",
+    "client_presence": "с клиентом",
+    "sum_rub": 14882,
+    "to_pay_rub": 0,
+    "details": "Mercedes C200, 2018 года, пробег 60 000 км",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Бутово",
+        "distance_km": 5.33
+      },
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 34.22
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 24.6
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/4818245/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C2022example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8683"
+  },
+  {
+    "order_id": "1024",
+    "service_title": "Комплексная проверка",
+    "city": "Люберцы",
+    "contract": "998240",
+    "date": "10.09.2025",
+    "time": "10:00-11:00",
+    "address": "Люберцы, пр-т Мира, 23",
+    "client_presence": "с клиентом",
+    "sum_rub": 15563,
+    "to_pay_rub": 0,
+    "details": "Lexus RX350, 2015 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Бутово",
+        "distance_km": 21.72
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 29.91
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/4218710/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C3715example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1920"
+  },
+  {
+    "order_id": "1025",
+    "service_title": "Выездная диагностика",
+    "city": "Ногинск",
+    "contract": "900760",
+    "date": "15.09.2025",
+    "time": "10:00-11:00",
+    "address": "Ногинск, ул. Советская, 49",
+    "client_presence": "без клиента",
+    "sum_rub": 12682,
+    "to_pay_rub": 0,
+    "details": "Mazda 6, 2017 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 13.52
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/4983681/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C9937example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7476"
+  },
+  {
+    "order_id": "1026",
+    "service_title": "Эксперт на день",
+    "city": "Химки",
+    "contract": "980379",
+    "date": "09.09.2025",
+    "time": "12:00-13:00",
+    "address": "Химки, ул. Академика Семёнова, 76",
+    "client_presence": "без клиента",
+    "sum_rub": 23740,
+    "to_pay_rub": 0,
+    "details": "Mercedes C200, 2018 года, пробег 60 000 км",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 13.8
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 12.94
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 30.73
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/8117845/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C6128example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1882"
+  },
+  {
+    "order_id": "1027",
+    "service_title": "Эксперт на день",
+    "city": "Москва",
+    "contract": "938381",
+    "date": "25.09.2025",
+    "time": "12:00-13:00",
+    "address": "Москва, ул. Советская, 61",
+    "client_presence": "без клиента",
+    "sum_rub": 21000,
+    "to_pay_rub": 0,
+    "details": "Hyundai Sonata, 2021 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 33.17
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 28.54
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 25.7
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1874205/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7853example",
+    "navigator_link": "yandexnavi://build_route_on_map?...5702"
+  },
+  {
+    "order_id": "1028",
+    "service_title": "Эксперт на день",
+    "city": "Химки",
+    "contract": "949738",
+    "date": "09.09.2025",
+    "time": "в течение дня",
+    "address": "Химки, ул. Академика Семёнова, 87",
+    "client_presence": "с клиентом",
+    "sum_rub": 11524,
+    "to_pay_rub": 0,
+    "details": "Mercedes C200, 2018 года, пробег 60 000 км",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 28.31
+      },
+      {
+        "name": "Ольховая",
+        "distance_km": 29.18
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2481109/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8114example",
+    "navigator_link": "yandexnavi://build_route_on_map?...6969"
+  },
+  {
+    "order_id": "1029",
+    "service_title": "Выездная диагностика",
+    "city": "Ногинск",
+    "contract": "931323",
+    "date": "09.09.2025",
+    "time": "10:00-11:00",
+    "address": "Ногинск, ул. Советская, 50",
+    "client_presence": "без клиента",
+    "sum_rub": 18219,
+    "to_pay_rub": 0,
+    "details": "Kia Optima, 2019 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Бутово",
+        "distance_km": 17.66
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 8.83
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 4.06
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/6627580/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7413example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1605"
+  },
+  {
+    "order_id": "1030",
+    "service_title": "Выездная диагностика",
+    "city": "Мытищи",
+    "contract": "995368",
+    "date": "16.09.2025",
+    "time": "в течение дня",
+    "address": "Мытищи, ул. Индустриальная, 54",
+    "client_presence": "без клиента",
+    "sum_rub": 17874,
+    "to_pay_rub": 0,
+    "details": "Mazda 6, 2017 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 16.7
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 4.99
+      },
+      {
+        "name": "Ольховая",
+        "distance_km": 24.39
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/5960742/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C6023example",
+    "navigator_link": "yandexnavi://build_route_on_map?...2290"
+  },
+  {
+    "order_id": "1031",
+    "service_title": "Эксперт на день",
+    "city": "Химки",
+    "contract": "934955",
+    "date": "28.09.2025",
+    "time": "12:00-13:00",
+    "address": "Химки, пр-т Мира, 37",
+    "client_presence": "с клиентом",
+    "sum_rub": 20593,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 26.5
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 14.45
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9824623/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C6062example",
+    "navigator_link": "yandexnavi://build_route_on_map?...6713"
+  },
+  {
+    "order_id": "1032",
+    "service_title": "Выездная диагностика",
+    "city": "Химки",
+    "contract": "986123",
+    "date": "26.09.2025",
+    "time": "после 13:00",
+    "address": "Химки, ул. Академика Семёнова, 34",
+    "client_presence": "без клиента",
+    "sum_rub": 8859,
+    "to_pay_rub": 0,
+    "details": "Toyota Camry XV70, 2020 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 33.11
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 20.95
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 31.9
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/3610386/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C1530example",
+    "navigator_link": "yandexnavi://build_route_on_map?...9165"
+  },
+  {
+    "order_id": "1033",
+    "service_title": "Выездная диагностика",
+    "city": "Химки",
+    "contract": "934964",
+    "date": "21.09.2025",
+    "time": "10:00-11:00",
+    "address": "Химки, ул. Ленина, 54",
+    "client_presence": "с клиентом",
+    "sum_rub": 12534,
+    "to_pay_rub": 0,
+    "details": "Audi A4 B8, 2012 г.в., серый седан",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 17.22
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 10.89
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9986464/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C9142example",
+    "navigator_link": "yandexnavi://build_route_on_map?...6017"
+  },
+  {
+    "order_id": "1034",
+    "service_title": "Комплексная проверка",
+    "city": "Люберцы",
+    "contract": "954638",
+    "date": "17.09.2025",
+    "time": "14:00-15:00",
+    "address": "Люберцы, пр-т Мира, 6",
+    "client_presence": "с клиентом",
+    "sum_rub": 23100,
+    "to_pay_rub": 0,
+    "details": "Kia Optima, 2019 года",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 14.44
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 8.02
+      },
+      {
+        "name": "Бутово",
+        "distance_km": 19.97
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2096190/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C3462example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7743"
+  },
+  {
+    "order_id": "1035",
+    "service_title": "Выездная диагностика",
+    "city": "Москва",
+    "contract": "994929",
+    "date": "04.09.2025",
+    "time": "10:00-11:00",
+    "address": "Москва, ул. Индустриальная, 32",
+    "client_presence": "без клиента",
+    "sum_rub": 14790,
+    "to_pay_rub": 0,
+    "details": "Hyundai Sonata, 2021 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 12.83
+      },
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 31.19
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9885182/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C9681example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1925"
+  },
+  {
+    "order_id": "1036",
+    "service_title": "Комплексная проверка",
+    "city": "Люберцы",
+    "contract": "950003",
+    "date": "11.09.2025",
+    "time": "в течение дня",
+    "address": "Люберцы, ул. Академика Семёнова, 66",
+    "client_presence": "с клиентом",
+    "sum_rub": 21497,
+    "to_pay_rub": 0,
+    "details": "Skoda Octavia A7, 2015 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 12.97
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/7215051/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C9910example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8210"
+  },
+  {
+    "order_id": "1037",
+    "service_title": "Выездная диагностика",
+    "city": "Москва",
+    "contract": "948320",
+    "date": "29.09.2025",
+    "time": "в течение дня",
+    "address": "Москва, ул. Советская, 79",
+    "client_presence": "без клиента",
+    "sum_rub": 18776,
+    "to_pay_rub": 0,
+    "details": "Volkswagen Passat B7, 2014 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 31.7
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 29.26
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/5041143/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8342example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8973"
+  },
+  {
+    "order_id": "1038",
+    "service_title": "Выездная диагностика",
+    "city": "Химки",
+    "contract": "930721",
+    "date": "19.09.2025",
+    "time": "10:00-11:00",
+    "address": "Химки, ул. Советская, 58",
+    "client_presence": "с клиентом",
+    "sum_rub": 10911,
+    "to_pay_rub": 0,
+    "details": "Toyota Camry XV70, 2020 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 33.05
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 21.83
+      },
+      {
+        "name": "Ольховая",
+        "distance_km": 13.79
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/5353174/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C1654example",
+    "navigator_link": "yandexnavi://build_route_on_map?...6367"
+  },
+  {
+    "order_id": "1039",
+    "service_title": "Комплексная проверка",
+    "city": "Мытищи",
+    "contract": "934966",
+    "date": "10.09.2025",
+    "time": "в течение дня",
+    "address": "Мытищи, ул. Ленина, 44",
+    "client_presence": "с клиентом",
+    "sum_rub": 12182,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 6.0
+      },
+      {
+        "name": "Бутово",
+        "distance_km": 25.05
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 22.63
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1063140/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8759example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7096"
+  },
+  {
+    "order_id": "1040",
+    "service_title": "Комплексная проверка",
+    "city": "Ногинск",
+    "contract": "905321",
+    "date": "03.09.2025",
+    "time": "14:00-15:00",
+    "address": "Ногинск, ул. Индустриальная, 66",
+    "client_presence": "без клиента",
+    "sum_rub": 23350,
+    "to_pay_rub": 0,
+    "details": "Mazda 6, 2017 года",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 2.31
+      },
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 3.43
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 16.61
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2304745/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C6260example",
+    "navigator_link": "yandexnavi://build_route_on_map?...6955"
+  },
+  {
+    "order_id": "1041",
+    "service_title": "Выездная диагностика",
+    "city": "Люберцы",
+    "contract": "970525",
+    "date": "20.09.2025",
+    "time": "12:00-13:00",
+    "address": "Люберцы, ул. Советская, 72",
+    "client_presence": "без клиента",
+    "sum_rub": 23369,
+    "to_pay_rub": 0,
+    "details": "Kia Optima, 2019 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 9.71
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9018877/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C5466example",
+    "navigator_link": "yandexnavi://build_route_on_map?...3344"
+  },
+  {
+    "order_id": "1042",
+    "service_title": "Эксперт на день",
+    "city": "Москва",
+    "contract": "935616",
+    "date": "10.09.2025",
+    "time": "14:00-15:00",
+    "address": "Москва, пр-т Мира, 73",
+    "client_presence": "с клиентом",
+    "sum_rub": 16453,
+    "to_pay_rub": 0,
+    "details": "Volkswagen Passat B7, 2014 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 10.91
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 25.61
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/4144335/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C3734example",
+    "navigator_link": "yandexnavi://build_route_on_map?...5068"
+  },
+  {
+    "order_id": "1043",
+    "service_title": "Комплексная проверка",
+    "city": "Москва",
+    "contract": "912640",
+    "date": "07.09.2025",
+    "time": "после 13:00",
+    "address": "Москва, ул. Ленина, 75",
+    "client_presence": "без клиента",
+    "sum_rub": 23201,
+    "to_pay_rub": 0,
+    "details": "Hyundai Sonata, 2021 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 6.37
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/3335631/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C4594example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1149"
+  },
+  {
+    "order_id": "1044",
+    "service_title": "Комплексная проверка",
+    "city": "Химки",
+    "contract": "957741",
+    "date": "02.09.2025",
+    "time": "14:00-15:00",
+    "address": "Химки, ул. Советская, 90",
+    "client_presence": "с клиентом",
+    "sum_rub": 14895,
+    "to_pay_rub": 0,
+    "details": "Audi A4 B8, 2012 г.в., серый седан",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 4.85
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/5151130/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C4857example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1400"
+  },
+  {
+    "order_id": "1045",
+    "service_title": "Выездная диагностика",
+    "city": "Москва",
+    "contract": "988398",
+    "date": "24.09.2025",
+    "time": "14:00-15:00",
+    "address": "Москва, ул. Советская, 76",
+    "client_presence": "с клиентом",
+    "sum_rub": 19874,
+    "to_pay_rub": 0,
+    "details": "Skoda Octavia A7, 2015 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 29.28
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/3259580/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7972example",
+    "navigator_link": "yandexnavi://build_route_on_map?...3441"
+  },
+  {
+    "order_id": "1046",
+    "service_title": "Эксперт на день",
+    "city": "Химки",
+    "contract": "991596",
+    "date": "09.09.2025",
+    "time": "10:00-11:00",
+    "address": "Химки, ул. Академика Семёнова, 38",
+    "client_presence": "без клиента",
+    "sum_rub": 11615,
+    "to_pay_rub": 0,
+    "details": "Volkswagen Passat B7, 2014 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Бутово",
+        "distance_km": 16.64
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 21.29
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/7581855/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C5855example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8143"
+  },
+  {
+    "order_id": "1047",
+    "service_title": "Комплексная проверка",
+    "city": "Люберцы",
+    "contract": "901610",
+    "date": "30.09.2025",
+    "time": "10:00-11:00",
+    "address": "Люберцы, ул. Индустриальная, 2",
+    "client_presence": "без клиента",
+    "sum_rub": 10325,
+    "to_pay_rub": 0,
+    "details": "Skoda Octavia A7, 2015 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 34.24
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 2.93
+      },
+      {
+        "name": "Ольховая",
+        "distance_km": 5.8
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/3595412/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C1493example",
+    "navigator_link": "yandexnavi://build_route_on_map?...4321"
+  },
+  {
+    "order_id": "1048",
+    "service_title": "Эксперт на день",
+    "city": "Москва",
+    "contract": "902835",
+    "date": "07.09.2025",
+    "time": "10:00-11:00",
+    "address": "Москва, ул. Академика Семёнова, 11",
+    "client_presence": "без клиента",
+    "sum_rub": 18380,
+    "to_pay_rub": 0,
+    "details": "Kia Optima, 2019 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 13.78
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 22.46
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/5389993/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8725example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8668"
+  },
+  {
+    "order_id": "1049",
+    "service_title": "Комплексная проверка",
+    "city": "Ногинск",
+    "contract": "981143",
+    "date": "16.09.2025",
+    "time": "12:00-13:00",
+    "address": "Ногинск, ул. Индустриальная, 92",
+    "client_presence": "без клиента",
+    "sum_rub": 10852,
+    "to_pay_rub": 0,
+    "details": "Mercedes C200, 2018 года, пробег 60 000 км",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 5.59
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 6.71
+      },
+      {
+        "name": "Бутово",
+        "distance_km": 16.21
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/8279861/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C9719example",
+    "navigator_link": "yandexnavi://build_route_on_map?...3451"
+  },
+  {
+    "order_id": "1050",
+    "service_title": "Эксперт на день",
+    "city": "Москва",
+    "contract": "976004",
+    "date": "04.09.2025",
+    "time": "10:00-11:00",
+    "address": "Москва, ул. Советская, 1",
+    "client_presence": "без клиента",
+    "sum_rub": 13103,
+    "to_pay_rub": 0,
+    "details": "Volkswagen Passat B7, 2014 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 10.35
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 18.78
+      },
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 16.35
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1324539/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C6443example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1150"
+  },
+  {
+    "order_id": "1051",
+    "service_title": "Выездная диагностика",
+    "city": "Ногинск",
+    "contract": "959833",
+    "date": "20.09.2025",
+    "time": "после 13:00",
+    "address": "Ногинск, ул. Ленина, 10",
+    "client_presence": "без клиента",
+    "sum_rub": 14829,
+    "to_pay_rub": 0,
+    "details": "Audi A4 B8, 2012 г.в., серый седан",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 27.18
+      },
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 9.83
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2578894/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C2347example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7753"
+  },
+  {
+    "order_id": "1052",
+    "service_title": "Эксперт на день",
+    "city": "Люберцы",
+    "contract": "917624",
+    "date": "08.09.2025",
+    "time": "после 13:00",
+    "address": "Люберцы, ул. Советская, 56",
+    "client_presence": "без клиента",
+    "sum_rub": 12139,
+    "to_pay_rub": 0,
+    "details": "Audi A4 B8, 2012 г.в., серый седан",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 34.14
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1329179/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8072example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1646"
+  },
+  {
+    "order_id": "1053",
+    "service_title": "Комплексная проверка",
+    "city": "Ногинск",
+    "contract": "928202",
+    "date": "13.09.2025",
+    "time": "14:00-15:00",
+    "address": "Ногинск, ул. Советская, 92",
+    "client_presence": "без клиента",
+    "sum_rub": 12157,
+    "to_pay_rub": 0,
+    "details": "Mazda 6, 2017 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 23.5
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 23.35
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 1.61
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2523715/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C3136example",
+    "navigator_link": "yandexnavi://build_route_on_map?...5264"
+  },
+  {
+    "order_id": "1054",
+    "service_title": "Комплексная проверка",
+    "city": "Химки",
+    "contract": "944439",
+    "date": "10.09.2025",
+    "time": "10:00-11:00",
+    "address": "Химки, ул. Академика Семёнова, 36",
+    "client_presence": "без клиента",
+    "sum_rub": 24872,
+    "to_pay_rub": 0,
+    "details": "Hyundai Sonata, 2021 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 10.71
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 25.91
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1129396/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C6481example",
+    "navigator_link": "yandexnavi://build_route_on_map?...4746"
+  },
+  {
+    "order_id": "1055",
+    "service_title": "Эксперт на день",
+    "city": "Ногинск",
+    "contract": "983167",
+    "date": "17.09.2025",
+    "time": "12:00-13:00",
+    "address": "Ногинск, ул. Советская, 38",
+    "client_presence": "без клиента",
+    "sum_rub": 14589,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 17.13
+      },
+      {
+        "name": "Ольховая",
+        "distance_km": 23.69
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/3905388/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8782example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7163"
+  },
+  {
+    "order_id": "1056",
+    "service_title": "Эксперт на день",
+    "city": "Москва",
+    "contract": "907549",
+    "date": "15.09.2025",
+    "time": "10:00-11:00",
+    "address": "Москва, ул. Советская, 30",
+    "client_presence": "с клиентом",
+    "sum_rub": 10868,
+    "to_pay_rub": 0,
+    "details": "Kia Optima, 2019 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 25.6
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 12.46
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/7832222/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C1667example",
+    "navigator_link": "yandexnavi://build_route_on_map?...2248"
+  },
+  {
+    "order_id": "1057",
+    "service_title": "Комплексная проверка",
+    "city": "Ногинск",
+    "contract": "920802",
+    "date": "13.09.2025",
+    "time": "14:00-15:00",
+    "address": "Ногинск, ул. Индустриальная, 11",
+    "client_presence": "с клиентом",
+    "sum_rub": 8967,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 3.22
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 24.33
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1926134/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C3998example",
+    "navigator_link": "yandexnavi://build_route_on_map?...3353"
+  },
+  {
+    "order_id": "1058",
+    "service_title": "Эксперт на день",
+    "city": "Химки",
+    "contract": "962634",
+    "date": "16.09.2025",
+    "time": "14:00-15:00",
+    "address": "Химки, ул. Советская, 22",
+    "client_presence": "без клиента",
+    "sum_rub": 19799,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 32.38
+      },
+      {
+        "name": "Ольховая",
+        "distance_km": 9.08
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9559827/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C2279example",
+    "navigator_link": "yandexnavi://build_route_on_map?...6170"
+  },
+  {
+    "order_id": "1059",
+    "service_title": "Выездная диагностика",
+    "city": "Люберцы",
+    "contract": "936118",
+    "date": "25.09.2025",
+    "time": "10:00-11:00",
+    "address": "Люберцы, ул. Ленина, 98",
+    "client_presence": "без клиента",
+    "sum_rub": 13156,
+    "to_pay_rub": 0,
+    "details": "Volkswagen Passat B7, 2014 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 22.99
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 2.51
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/7002495/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C6225example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1986"
+  },
+  {
+    "order_id": "1060",
+    "service_title": "Комплексная проверка",
+    "city": "Химки",
+    "contract": "904873",
+    "date": "30.09.2025",
+    "time": "10:00-11:00",
+    "address": "Химки, ул. Советская, 32",
+    "client_presence": "без клиента",
+    "sum_rub": 9351,
+    "to_pay_rub": 0,
+    "details": "Skoda Octavia A7, 2015 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Бутово",
+        "distance_km": 10.75
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 2.49
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 16.49
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/6404067/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8484example",
+    "navigator_link": "yandexnavi://build_route_on_map?...4140"
+  },
+  {
+    "order_id": "1061",
+    "service_title": "Эксперт на день",
+    "city": "Мытищи",
+    "contract": "993858",
+    "date": "11.09.2025",
+    "time": "в течение дня",
+    "address": "Мытищи, ул. Ленина, 75",
+    "client_presence": "без клиента",
+    "sum_rub": 11233,
+    "to_pay_rub": 0,
+    "details": "Mazda 6, 2017 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 24.23
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2870227/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C5644example",
+    "navigator_link": "yandexnavi://build_route_on_map?...2664"
+  },
+  {
+    "order_id": "1062",
+    "service_title": "Выездная диагностика",
+    "city": "Химки",
+    "contract": "980943",
+    "date": "29.09.2025",
+    "time": "в течение дня",
+    "address": "Химки, ул. Советская, 42",
+    "client_presence": "без клиента",
+    "sum_rub": 19470,
+    "to_pay_rub": 0,
+    "details": "Audi A4 B8, 2012 г.в., серый седан",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 14.0
+      },
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 12.92
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 26.42
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/6304708/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C2798example",
+    "navigator_link": "yandexnavi://build_route_on_map?...3763"
+  },
+  {
+    "order_id": "1063",
+    "service_title": "Комплексная проверка",
+    "city": "Люберцы",
+    "contract": "990484",
+    "date": "25.09.2025",
+    "time": "в течение дня",
+    "address": "Люберцы, ул. Советская, 13",
+    "client_presence": "с клиентом",
+    "sum_rub": 16173,
+    "to_pay_rub": 0,
+    "details": "Kia Optima, 2019 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 32.37
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 1.9
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1441719/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8132example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8355"
+  },
+  {
+    "order_id": "1064",
+    "service_title": "Выездная диагностика",
+    "city": "Ногинск",
+    "contract": "979551",
+    "date": "05.09.2025",
+    "time": "12:00-13:00",
+    "address": "Ногинск, ул. Ленина, 78",
+    "client_presence": "без клиента",
+    "sum_rub": 9639,
+    "to_pay_rub": 0,
+    "details": "Volkswagen Passat B7, 2014 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 1.55
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/3123631/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8852example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1336"
+  },
+  {
+    "order_id": "1065",
+    "service_title": "Эксперт на день",
+    "city": "Люберцы",
+    "contract": "997105",
+    "date": "05.09.2025",
+    "time": "14:00-15:00",
+    "address": "Люберцы, ул. Индустриальная, 56",
+    "client_presence": "без клиента",
+    "sum_rub": 8329,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 28.06
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 8.65
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/3147532/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C6921example",
+    "navigator_link": "yandexnavi://build_route_on_map?...6717"
+  },
+  {
+    "order_id": "1066",
+    "service_title": "Выездная диагностика",
+    "city": "Мытищи",
+    "contract": "935331",
+    "date": "12.09.2025",
+    "time": "после 13:00",
+    "address": "Мытищи, пр-т Мира, 66",
+    "client_presence": "без клиента",
+    "sum_rub": 17727,
+    "to_pay_rub": 0,
+    "details": "Hyundai Sonata, 2021 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 19.3
+      },
+      {
+        "name": "Ольховая",
+        "distance_km": 7.92
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2688662/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C4213example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1688"
+  },
+  {
+    "order_id": "1067",
+    "service_title": "Выездная диагностика",
+    "city": "Химки",
+    "contract": "974904",
+    "date": "19.09.2025",
+    "time": "в течение дня",
+    "address": "Химки, ул. Индустриальная, 39",
+    "client_presence": "без клиента",
+    "sum_rub": 20701,
+    "to_pay_rub": 0,
+    "details": "Mazda 6, 2017 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 4.7
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9284783/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C3097example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7599"
+  },
+  {
+    "order_id": "1068",
+    "service_title": "Эксперт на день",
+    "city": "Химки",
+    "contract": "979623",
+    "date": "28.09.2025",
+    "time": "14:00-15:00",
+    "address": "Химки, пр-т Мира, 66",
+    "client_presence": "без клиента",
+    "sum_rub": 13574,
+    "to_pay_rub": 0,
+    "details": "Hyundai Sonata, 2021 года",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 31.9
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/4802041/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C3976example",
+    "navigator_link": "yandexnavi://build_route_on_map?...9865"
+  },
+  {
+    "order_id": "1069",
+    "service_title": "Выездная диагностика",
+    "city": "Москва",
+    "contract": "946612",
+    "date": "18.09.2025",
+    "time": "10:00-11:00",
+    "address": "Москва, ул. Индустриальная, 89",
+    "client_presence": "без клиента",
+    "sum_rub": 8344,
+    "to_pay_rub": 0,
+    "details": "Hyundai Sonata, 2021 года",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 15.26
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 32.38
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 6.11
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/4853224/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7624example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7584"
+  },
+  {
+    "order_id": "1070",
+    "service_title": "Комплексная проверка",
+    "city": "Москва",
+    "contract": "940941",
+    "date": "29.09.2025",
+    "time": "14:00-15:00",
+    "address": "Москва, ул. Ленина, 17",
+    "client_presence": "без клиента",
+    "sum_rub": 20239,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 4.39
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9649495/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C5404example",
+    "navigator_link": "yandexnavi://build_route_on_map?...9423"
+  },
+  {
+    "order_id": "1071",
+    "service_title": "Комплексная проверка",
+    "city": "Люберцы",
+    "contract": "962642",
+    "date": "18.09.2025",
+    "time": "в течение дня",
+    "address": "Люберцы, ул. Советская, 22",
+    "client_presence": "с клиентом",
+    "sum_rub": 8358,
+    "to_pay_rub": 0,
+    "details": "Audi A4 B8, 2012 г.в., серый седан",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 28.87
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 28.44
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 7.77
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9882994/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C5672example",
+    "navigator_link": "yandexnavi://build_route_on_map?...4879"
+  },
+  {
+    "order_id": "1072",
+    "service_title": "Комплексная проверка",
+    "city": "Ногинск",
+    "contract": "983472",
+    "date": "19.09.2025",
+    "time": "14:00-15:00",
+    "address": "Ногинск, ул. Индустриальная, 62",
+    "client_presence": "с клиентом",
+    "sum_rub": 21547,
+    "to_pay_rub": 0,
+    "details": "Mazda 6, 2017 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 8.2
+      },
+      {
+        "name": "Бутово",
+        "distance_km": 2.95
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 19.44
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/4484774/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C3977example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8087"
+  },
+  {
+    "order_id": "1073",
+    "service_title": "Эксперт на день",
+    "city": "Москва",
+    "contract": "967611",
+    "date": "15.09.2025",
+    "time": "14:00-15:00",
+    "address": "Москва, пр-т Мира, 79",
+    "client_presence": "с клиентом",
+    "sum_rub": 14942,
+    "to_pay_rub": 0,
+    "details": "Skoda Octavia A7, 2015 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 25.42
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/5798213/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C9244example",
+    "navigator_link": "yandexnavi://build_route_on_map?...3201"
+  },
+  {
+    "order_id": "1074",
+    "service_title": "Комплексная проверка",
+    "city": "Москва",
+    "contract": "913687",
+    "date": "19.09.2025",
+    "time": "14:00-15:00",
+    "address": "Москва, ул. Ленина, 99",
+    "client_presence": "с клиентом",
+    "sum_rub": 9088,
+    "to_pay_rub": 0,
+    "details": "Toyota Camry XV70, 2020 года",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 20.77
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/3518973/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C3946example",
+    "navigator_link": "yandexnavi://build_route_on_map?...2170"
+  },
+  {
+    "order_id": "1075",
+    "service_title": "Эксперт на день",
+    "city": "Мытищи",
+    "contract": "941351",
+    "date": "10.09.2025",
+    "time": "10:00-11:00",
+    "address": "Мытищи, ул. Индустриальная, 83",
+    "client_presence": "с клиентом",
+    "sum_rub": 13454,
+    "to_pay_rub": 0,
+    "details": "Mazda 6, 2017 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 29.96
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 9.05
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1784211/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8443example",
+    "navigator_link": "yandexnavi://build_route_on_map?...2976"
+  },
+  {
+    "order_id": "1076",
+    "service_title": "Эксперт на день",
+    "city": "Мытищи",
+    "contract": "981489",
+    "date": "27.09.2025",
+    "time": "12:00-13:00",
+    "address": "Мытищи, ул. Ленина, 94",
+    "client_presence": "без клиента",
+    "sum_rub": 18135,
+    "to_pay_rub": 0,
+    "details": "Toyota Camry XV70, 2020 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 32.87
+      },
+      {
+        "name": "Ольховая",
+        "distance_km": 12.51
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/4378251/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C1002example",
+    "navigator_link": "yandexnavi://build_route_on_map?...4899"
+  },
+  {
+    "order_id": "1077",
+    "service_title": "Эксперт на день",
+    "city": "Москва",
+    "contract": "959880",
+    "date": "25.09.2025",
+    "time": "10:00-11:00",
+    "address": "Москва, ул. Ленина, 94",
+    "client_presence": "с клиентом",
+    "sum_rub": 15576,
+    "to_pay_rub": 0,
+    "details": "Audi A4 B8, 2012 г.в., серый седан",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 9.83
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/5125696/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C3012example",
+    "navigator_link": "yandexnavi://build_route_on_map?...2010"
+  },
+  {
+    "order_id": "1078",
+    "service_title": "Эксперт на день",
+    "city": "Люберцы",
+    "contract": "924873",
+    "date": "24.09.2025",
+    "time": "10:00-11:00",
+    "address": "Люберцы, пр-т Мира, 16",
+    "client_presence": "с клиентом",
+    "sum_rub": 11039,
+    "to_pay_rub": 0,
+    "details": "Toyota Camry XV70, 2020 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 25.13
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 2.54
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 11.8
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1120325/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7084example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1978"
+  },
+  {
+    "order_id": "1079",
+    "service_title": "Эксперт на день",
+    "city": "Ногинск",
+    "contract": "982318",
+    "date": "09.09.2025",
+    "time": "14:00-15:00",
+    "address": "Ногинск, ул. Академика Семёнова, 10",
+    "client_presence": "без клиента",
+    "sum_rub": 18212,
+    "to_pay_rub": 0,
+    "details": "Mazda 6, 2017 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 2.12
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 3.42
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/5897995/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7854example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8183"
+  },
+  {
+    "order_id": "1080",
+    "service_title": "Эксперт на день",
+    "city": "Мытищи",
+    "contract": "966875",
+    "date": "29.09.2025",
+    "time": "в течение дня",
+    "address": "Мытищи, ул. Академика Семёнова, 62",
+    "client_presence": "с клиентом",
+    "sum_rub": 21595,
+    "to_pay_rub": 0,
+    "details": "Volkswagen Passat B7, 2014 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 4.51
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 28.56
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 24.86
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/4979755/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C4187example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1929"
+  },
+  {
+    "order_id": "1081",
+    "service_title": "Комплексная проверка",
+    "city": "Москва",
+    "contract": "926319",
+    "date": "03.09.2025",
+    "time": "10:00-11:00",
+    "address": "Москва, ул. Советская, 43",
+    "client_presence": "без клиента",
+    "sum_rub": 8227,
+    "to_pay_rub": 0,
+    "details": "Volkswagen Passat B7, 2014 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Бутово",
+        "distance_km": 24.7
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 18.38
+      },
+      {
+        "name": "Коммунарка",
+        "distance_km": 33.55
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2094161/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7585example",
+    "navigator_link": "yandexnavi://build_route_on_map?...2404"
+  },
+  {
+    "order_id": "1082",
+    "service_title": "Эксперт на день",
+    "city": "Мытищи",
+    "contract": "970373",
+    "date": "03.09.2025",
+    "time": "в течение дня",
+    "address": "Мытищи, пр-т Мира, 48",
+    "client_presence": "без клиента",
+    "sum_rub": 19129,
+    "to_pay_rub": 0,
+    "details": "Skoda Octavia A7, 2015 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 23.11
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 30.08
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/6483719/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C6238example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7504"
+  },
+  {
+    "order_id": "1083",
+    "service_title": "Комплексная проверка",
+    "city": "Люберцы",
+    "contract": "961508",
+    "date": "06.09.2025",
+    "time": "в течение дня",
+    "address": "Люберцы, пр-т Мира, 16",
+    "client_presence": "без клиента",
+    "sum_rub": 18858,
+    "to_pay_rub": 0,
+    "details": "Kia Optima, 2019 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 18.11
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1960542/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C4537example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7616"
+  },
+  {
+    "order_id": "1084",
+    "service_title": "Комплексная проверка",
+    "city": "Химки",
+    "contract": "968671",
+    "date": "07.09.2025",
+    "time": "после 13:00",
+    "address": "Химки, пр-т Мира, 94",
+    "client_presence": "с клиентом",
+    "sum_rub": 15060,
+    "to_pay_rub": 0,
+    "details": "BMW 320i, 2016 года, пробег 95 000 км",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Бутово",
+        "distance_km": 16.22
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/7947558/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C9818example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7944"
+  },
+  {
+    "order_id": "1085",
+    "service_title": "Выездная диагностика",
+    "city": "Люберцы",
+    "contract": "947288",
+    "date": "04.09.2025",
+    "time": "12:00-13:00",
+    "address": "Люберцы, пр-т Мира, 1",
+    "client_presence": "без клиента",
+    "sum_rub": 22205,
+    "to_pay_rub": 0,
+    "details": "Toyota Camry XV70, 2020 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 23.4
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 23.92
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 29.1
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1682283/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7363example",
+    "navigator_link": "yandexnavi://build_route_on_map?...9209"
+  },
+  {
+    "order_id": "1086",
+    "service_title": "Комплексная проверка",
+    "city": "Ногинск",
+    "contract": "955596",
+    "date": "22.09.2025",
+    "time": "после 13:00",
+    "address": "Ногинск, ул. Академика Семёнова, 39",
+    "client_presence": "без клиента",
+    "sum_rub": 17658,
+    "to_pay_rub": 0,
+    "details": "Kia Optima, 2019 года",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 16.77
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 15.65
+      },
+      {
+        "name": "Бутово",
+        "distance_km": 24.69
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/7149415/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C2264example",
+    "navigator_link": "yandexnavi://build_route_on_map?...4650"
+  },
+  {
+    "order_id": "1087",
+    "service_title": "Комплексная проверка",
+    "city": "Москва",
+    "contract": "982077",
+    "date": "04.09.2025",
+    "time": "в течение дня",
+    "address": "Москва, ул. Академика Семёнова, 19",
+    "client_presence": "с клиентом",
+    "sum_rub": 15363,
+    "to_pay_rub": 0,
+    "details": "Lexus RX350, 2015 года",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Бутово",
+        "distance_km": 14.06
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 6.27
+      },
+      {
+        "name": "Бутово",
+        "distance_km": 28.64
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1449770/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C1762example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1697"
+  },
+  {
+    "order_id": "1088",
+    "service_title": "Комплексная проверка",
+    "city": "Мытищи",
+    "contract": "974073",
+    "date": "13.09.2025",
+    "time": "12:00-13:00",
+    "address": "Мытищи, ул. Индустриальная, 4",
+    "client_presence": "с клиентом",
+    "sum_rub": 15366,
+    "to_pay_rub": 0,
+    "details": "Mazda 6, 2017 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 6.26
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 30.64
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1983404/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C6432example",
+    "navigator_link": "yandexnavi://build_route_on_map?...1691"
+  },
+  {
+    "order_id": "1089",
+    "service_title": "Комплексная проверка",
+    "city": "Мытищи",
+    "contract": "910118",
+    "date": "29.09.2025",
+    "time": "после 13:00",
+    "address": "Мытищи, ул. Академика Семёнова, 11",
+    "client_presence": "с клиентом",
+    "sum_rub": 24524,
+    "to_pay_rub": 0,
+    "details": "Toyota Camry XV70, 2020 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 15.7
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2665080/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C1770example",
+    "navigator_link": "yandexnavi://build_route_on_map?...5739"
+  },
+  {
+    "order_id": "1090",
+    "service_title": "Эксперт на день",
+    "city": "Люберцы",
+    "contract": "974865",
+    "date": "03.09.2025",
+    "time": "в течение дня",
+    "address": "Люберцы, ул. Академика Семёнова, 91",
+    "client_presence": "с клиентом",
+    "sum_rub": 9039,
+    "to_pay_rub": 0,
+    "details": "Hyundai Sonata, 2021 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 1.26
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/6307945/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C1610example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8065"
+  },
+  {
+    "order_id": "1091",
+    "service_title": "Эксперт на день",
+    "city": "Химки",
+    "contract": "925593",
+    "date": "29.09.2025",
+    "time": "после 13:00",
+    "address": "Химки, пр-т Мира, 67",
+    "client_presence": "без клиента",
+    "sum_rub": 20625,
+    "to_pay_rub": 0,
+    "details": "Lexus RX350, 2015 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 33.63
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 11.8
+      },
+      {
+        "name": "Новомосковская",
+        "distance_km": 13.69
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2043163/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C9614example",
+    "navigator_link": "yandexnavi://build_route_on_map?...6148"
+  },
+  {
+    "order_id": "1092",
+    "service_title": "Комплексная проверка",
+    "city": "Химки",
+    "contract": "970822",
+    "date": "18.09.2025",
+    "time": "10:00-11:00",
+    "address": "Химки, ул. Ленина, 31",
+    "client_presence": "без клиента",
+    "sum_rub": 8440,
+    "to_pay_rub": 0,
+    "details": "Mercedes C200, 2018 года, пробег 60 000 км",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Новомосковская",
+        "distance_km": 17.62
+      },
+      {
+        "name": "Бутово",
+        "distance_km": 31.3
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/8033459/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8928example",
+    "navigator_link": "yandexnavi://build_route_on_map?...4862"
+  },
+  {
+    "order_id": "1093",
+    "service_title": "Эксперт на день",
+    "city": "Москва",
+    "contract": "944398",
+    "date": "11.09.2025",
+    "time": "14:00-15:00",
+    "address": "Москва, пр-т Мира, 63",
+    "client_presence": "без клиента",
+    "sum_rub": 8122,
+    "to_pay_rub": 0,
+    "details": "Audi A4 B8, 2012 г.в., серый седан",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 12.62
+      },
+      {
+        "name": "Железнодорожная",
+        "distance_km": 29.56
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9342154/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C2754example",
+    "navigator_link": "yandexnavi://build_route_on_map?...4815"
+  },
+  {
+    "order_id": "1094",
+    "service_title": "Выездная диагностика",
+    "city": "Люберцы",
+    "contract": "940326",
+    "date": "06.09.2025",
+    "time": "после 13:00",
+    "address": "Люберцы, ул. Академика Семёнова, 63",
+    "client_presence": "с клиентом",
+    "sum_rub": 23089,
+    "to_pay_rub": 0,
+    "details": "Volkswagen Passat B7, 2014 года",
+    "distance_zone_note": "Зона 2: 1250 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 22.81
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/9987664/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C4920example",
+    "navigator_link": "yandexnavi://build_route_on_map?...2611"
+  },
+  {
+    "order_id": "1095",
+    "service_title": "Эксперт на день",
+    "city": "Люберцы",
+    "contract": "913301",
+    "date": "29.09.2025",
+    "time": "10:00-11:00",
+    "address": "Люберцы, ул. Советская, 26",
+    "client_presence": "с клиентом",
+    "sum_rub": 23846,
+    "to_pay_rub": 0,
+    "details": "Kia Optima, 2019 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Бутово",
+        "distance_km": 10.64
+      },
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 13.2
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1571572/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C7024example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8373"
+  },
+  {
+    "order_id": "1096",
+    "service_title": "Эксперт на день",
+    "city": "Мытищи",
+    "contract": "981367",
+    "date": "10.09.2025",
+    "time": "в течение дня",
+    "address": "Мытищи, ул. Академика Семёнова, 93",
+    "client_presence": "без клиента",
+    "sum_rub": 11277,
+    "to_pay_rub": 0,
+    "details": "Toyota Camry XV70, 2020 года",
+    "distance_zone_note": "Зона 4: 2500 руб.",
+    "metro": [
+      {
+        "name": "Ольгино",
+        "distance_km": 21.5
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 28.4
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/2875434/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C5349example",
+    "navigator_link": "yandexnavi://build_route_on_map?...8421"
+  },
+  {
+    "order_id": "1097",
+    "service_title": "Комплексная проверка",
+    "city": "Люберцы",
+    "contract": "965150",
+    "date": "01.09.2025",
+    "time": "14:00-15:00",
+    "address": "Люберцы, ул. Советская, 90",
+    "client_presence": "с клиентом",
+    "sum_rub": 8738,
+    "to_pay_rub": 0,
+    "details": "Volkswagen Passat B7, 2014 года",
+    "distance_zone_note": "Зона 5: 3000 руб.",
+    "metro": [
+      {
+        "name": "Коммунарка",
+        "distance_km": 19.39
+      },
+      {
+        "name": "Бунинская аллея",
+        "distance_km": 24.0
+      },
+      {
+        "name": "Ольгино",
+        "distance_km": 11.29
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/3600050/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C3853example",
+    "navigator_link": "yandexnavi://build_route_on_map?...3262"
+  },
+  {
+    "order_id": "1098",
+    "service_title": "Выездная диагностика",
+    "city": "Москва",
+    "contract": "936952",
+    "date": "15.09.2025",
+    "time": "после 13:00",
+    "address": "Москва, ул. Ленина, 51",
+    "client_presence": "с клиентом",
+    "sum_rub": 11238,
+    "to_pay_rub": 0,
+    "details": "Skoda Octavia A7, 2015 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Ольховая",
+        "distance_km": 7.57
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/1980349/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C9414example",
+    "navigator_link": "yandexnavi://build_route_on_map?...3702"
+  },
+  {
+    "order_id": "1099",
+    "service_title": "Комплексная проверка",
+    "city": "Химки",
+    "contract": "992649",
+    "date": "01.09.2025",
+    "time": "после 13:00",
+    "address": "Химки, ул. Советская, 9",
+    "client_presence": "без клиента",
+    "sum_rub": 13488,
+    "to_pay_rub": 0,
+    "details": "Kia Optima, 2019 года",
+    "distance_zone_note": "Зона 3: 1800 руб.",
+    "metro": [
+      {
+        "name": "Железнодорожная",
+        "distance_km": 12.71
+      }
+    ],
+    "ad_links": [
+      "https://auto.ru/cars/used/sale/7619056/"
+    ],
+    "maps_link": "https://yandex.ru/maps/-/C8951example",
+    "navigator_link": "yandexnavi://build_route_on_map?...7369"
+  }
+]
